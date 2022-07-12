@@ -1,6 +1,6 @@
 name: learn-gitbub
 on: [push]
-jobs: test-version
+jobs:
     check-version:
       runs-on: ubuntu-latest
       steps:
