@@ -1,4 +1,4 @@
-name: learn-gitbub
+name: learn-github
 on: [push]
 jobs:
     check-version:
